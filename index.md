@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-# Gustavo Olivares' page
-
 ## About Me
 
 I am an air quality scientist originally from Chile but who have moved around and I'm now in New Zealand.
