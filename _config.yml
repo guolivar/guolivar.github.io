@@ -14,7 +14,7 @@ canonical: https://minimal-light.yyliu.net/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=1GIeOdEAAAAJ&hl=en
 github_link: https://github.com/guolivar
-mastodon_link: https://fosstodon.org/@guolivar
+#mastodon_link: https://fosstodon.org/@guolivar
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
