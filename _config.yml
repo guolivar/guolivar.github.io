@@ -78,7 +78,7 @@ github_username: guolivar # your GitHub user name
 gitlab_username: guolivar # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
-kaggle_id: gustavoelgusolivares # your kaggle id
+kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -161,9 +161,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: Blogger
-    rss_url: https://the-restless-gus.blogspot.com/feeds/posts/default
+#external_sources:
+#  - name: Blogger
+#    rss_url: https://the-restless-gus.blogspot.com/feeds/posts/default
 
 # -----------------------------------------------------------------------------
 # Collections
