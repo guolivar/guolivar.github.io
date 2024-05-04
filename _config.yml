@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # /assets/img/Gustavo_Olivares_WEB.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/Gustavo_Olivares_WEB.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://guolivar.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 acm_id: # your dl.acm.org/profile/id
-blogger_url: https://the-restless-gus.blogspot.com/ # your blogger URL
+blogger_url: https://the-restless-gus.blogspot.com/# your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
@@ -90,7 +90,7 @@ osf_id: wq89m # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: # https://www.researchgate.net/profile/Gustavo-Olivares-2 # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Gustavo-Olivares-2 # your profile on ResearchGate
 scholar_userid: 1GIeOdEAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
@@ -116,7 +116,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # G-QS4X9VRGDJ # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-QS4X9VRGDJ # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
@@ -398,7 +398,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
