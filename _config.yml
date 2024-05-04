@@ -83,7 +83,7 @@ keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: guolivar # your LinkedIn user name
-mastodon_username: #airpollution.science/@guolivar # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: airpollution.science/@guolivar # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0000-0001-8045-216X # your ORCID ID
 osf_id: wq89m # your OSF ID
@@ -161,9 +161,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-#external_sources:
-#  - name: medium.com
-#    rss_url: https://medium.com/@al-folio/feed
+external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
