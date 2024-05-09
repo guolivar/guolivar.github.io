@@ -2,96 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gustavo A. Olivares Pino
     - name: Date of Birth
-      value: 14th March 1879
+      value: 4th of December 1973
     - name: Languages
-      value: English, German
+      value: Spanish (native), English (fluent), Swedish (basic)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Fil Lic
+      institution: Stockholm University, Sweden
+      year: 2009
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - The aim of this study was to quantify emission factors for urban combustion sources based on ambient measurements and dispersion modeling. The methodology used is an extension of previously developed techniques and was applied on two datasets to obtain wood combustion and traffic emission factors for black carbon and size resolved particle numbers.
+    - title: MSc (Chemical Engineering)
+      institution: Universidad de Chile (University of Chile), 
+      year: 2001
       description:
-        - Description 1.
-        - Description 2.
+        - The title of the thesis was "Regional Disperssion of Oxidised Sulphur in Central Chile" and it consisted in the use of chemical transport models to estimate the impact of the $$SO_2$$ emissiones from the big coper smelters in central Chile, on the air quality in Santiago and other cities in the area.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Air Quality Scientist
+      institution: NIWA
+      year: 2007 - ongoing
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - My role at NIWA has been to lead the development of new technologies both in measurements and data
+analysis and visualisation. I have also been tasked with the data manage.
+    - title: PhD student
+      institution: Stockholm University
+      year: 2002 - 2006
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - My work was primarily developing a mobile measurement platform for ultrafine particles as well as study-
+ing the processes affecting aerosol behaviour in urban environments.
