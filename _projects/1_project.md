@@ -20,6 +20,8 @@ The parameters measured are:
   + CO2. Photoacoustic sensor – Sensair 41.
   + PM1, PM2.5, PM10. Plantower PMS5003 laser dust sensor.
 
+The data are streamed to an InfluxDB instance with a separate bucket for each SHAQS. Data available locally onboard of each SHAQS only covers the last 48 hours. To generate the automatic reports, we setup Batch jobs in Amazon's cloud computing platform to run Docker images with R scripts to take the data from the InfluxDB database and generate automatic daily and weekly reports.
+
 [NIWA project page](https://niwa.co.nz/atmosphere/reducing-covid-19-transmission-through-increased-ventilation)
 
 <!--
