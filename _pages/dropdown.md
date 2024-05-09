@@ -16,8 +16,4 @@ children:
   + title: blog
     permalink: /blog/
 
-  + title: divider
-  + title: cv
-    permalink: /cv/
-
 ---
