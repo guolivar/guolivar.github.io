@@ -6,7 +6,7 @@ description: an example of a blog post with custom blockquotes
 tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
-related_posts: true
+related_posts: false
 ---
 
 This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
@@ -98,6 +98,7 @@ These custom styles can be used by adding the specific class to the blockquote, 
 >
 > A tip can be used when you want to give advice
 > related to a certain content.
+
 {: .block-tip }
 
 ```markdown
@@ -112,6 +113,7 @@ These custom styles can be used by adding the specific class to the blockquote, 
 >
 > This is a warning, and thus should
 > be used when you want to warn the user
+
 {: .block-warning }
 
 ```markdown
@@ -126,6 +128,7 @@ These custom styles can be used by adding the specific class to the blockquote, 
 >
 > This is a danger zone, and thus should
 > be used carefully
+
 {: .block-danger }
 
 <!-- prettier-ignore-end -->
