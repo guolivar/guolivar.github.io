@@ -8,11 +8,11 @@ category: work
 related_publications: true
 ---
 
-When it became clear that New Zealand's successful [elimination strategy](https://www.theguardian.com/world/commentisfree/2022/apr/05/new-zealands-covid-strategy-was-one-of-the-worlds-most-successful-what-can-it-learn-from-it) was to be replaced with one of [mitigation](https://www.reuters.com/world/asia-pacific/new-zealand-extends-auckland-lockdown-eases-some-curbs-2021-10-04/), it became clear that we needed to understand the ventilation practices in our indoor spaces.
+When it became clear that New Zealand's successful elimination strategy) was to be replaced with one of mitigation, it became clear that we needed to understand the ventilation practices in our indoor spaces.
 
 As part of the Ministry of Health fund to improve preparedness for future pandemics, my team set out to characterise the ventilation conditions of multiple indoor spaces in New Zealand. In order to do that, we had to develop a system that would be able to measure $$CO_2$$ as well as context information such as human presence, and open/close state of doors and windows.
 
-Our response to this challenge was to develop SHAQS (Smart Home Air Quality System), a modular and portable system to quickly characterise the ventilation performance of indoor spaces. The heart and brain of the system is a Raspberry Pi computer running [Home Assistant](https://www.home-assistant.io/) that receives the data transmissions form air quality sensors as well as human presence monitors and door/window opening sensors.
+Our response to this challenge was to develop SHAQS (Smart Home Air Quality System), a modular and portable system to quickly characterise the ventilation performance of indoor spaces. The heart and brain of the system is a Raspberry Pi computer running Home Assistant that receives the data transmissions form air quality sensors as well as human presence monitors and door/window opening sensors.
 The parameters measured are:
 * Motion detection. mmWave radar (Tuya ZigBee Human Presence Detector)
 * Door/Windows opening sensor. Simple Hall sensors with ZigBee connectivity (Tuya ZigBee Door Window sensor)
