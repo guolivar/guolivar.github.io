@@ -2,7 +2,7 @@
 layout: page
 title: CONA
 description: Community Observation Networks for Air
-img: assets/img/3.jpg
+img: assets/img/odin_mountain_bg.jpg
 importance: 2
 category: work
 nav: true
