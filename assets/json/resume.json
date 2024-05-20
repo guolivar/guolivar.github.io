@@ -6,13 +6,6 @@
     "email": "guolivar@gmail.com",
     "url": "https://guolivar.github.io/",
     "summary": "Chemical Engineer turned atmospheric scientist, turned aerosol scientist.",
-    "location": {
-      "address": "41 Market Place",
-      "postalCode": "Auckland 1010",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "Auckland"
-    },
     "profiles": [
       {
         "network": "Mastodon",

@@ -10,9 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-    <p>+64 9 375 2080</p>
-    <p>41 Market Place</p>
-    <p>Auckland Central, Auckland 1010</p>
+    <p>Email to</p>
+    <p>guolivar _AT_ gmail.com</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
